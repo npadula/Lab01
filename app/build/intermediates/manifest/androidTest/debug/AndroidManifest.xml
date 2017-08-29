@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="padula.delaiglesia.dam.isi.frsf.lab01.test">
+
+    <uses-sdk android:minSdkVersion="25" android:targetSdkVersion="26" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="padula.delaiglesia.dam.isi.frsf.lab01"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for padula.delaiglesia.dam.isi.frsf.lab01"/>
+</manifest>

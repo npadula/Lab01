@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab01</string>
+    <string name="strTitulo">Calculadora Plazo Fijo</string>
+    <string name="lblCorreoElectronico">Correo Electrónico</string>
+    <string name="cantidadDias">Cantidad de días</string>
+    <string name="cantDiasSeekBarString">Small Text</string>
+    <string name="renovarVencimientoString">Renovar Automáticamente al Vencimiento</string>
+    <string name="dineroString">Small Text</string>
+    <string name="hacerPlazoFijoString">HACER PLAZO FIJO</string>
+    <string name="resultMessageString">New Text</string>
+</resources>
