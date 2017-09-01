@@ -739,7 +739,7 @@ int string hacerPlazoFijoString 0x7f060025
 int string hasta5000Mayor30 0x7f060026
 int string hasta5000Menor30 0x7f060027
 int string hasta990000Mayor30 0x7f060028
-int string hastar99000Menor30 0x7f060029
+int string hasta99000Menor30 0x7f060029
 int string lblCorreoElectronico 0x7f06002a
 int string masDe99000Mayor30 0x7f06002b
 int string masDe99000Menor30 0x7f06002c

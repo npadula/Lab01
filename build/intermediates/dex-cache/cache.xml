@@ -1,3 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        is-multidex="true"
+        jar="C:\Users\npadula\.android\build-cache\b54bb8ee33f05801c5d55170f72ba53b52114e64\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d9faad723d2b91355f00e8334607e7b107ad5d6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d60c275136b8bbbe231e880885adc9d4efc6aa13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\npadula\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_167974d1f55a8240bf3854807b828393c112d07f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\npadula\.android\build-cache\a77540e30bf8e78f53d175d96b34161f9470997d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b543da1dbc605dc29e5e279377f3733d3258c7e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\npadula\.android\build-cache\4c146f4c7d0fc43cb03a5affe32c109c4bbbd07b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b81df2292aaaa72378ba6a82faddb71d7f917bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71bf242d78790e8929012ee6325d209c1342d14e">
+        <dex dex="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1c41799e9530c4a4a45097d7e28fe77431266ce8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\npadula\.android\build-cache\a755c311d03c67a25bef32b7268dbeee468b7b63\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a27f3490f7d5fd2a32a11f704bc8f4352e42cffb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\npadula\.android\build-cache\c1926426650ef2aee3e34c405aed6b648c741ce9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c33fc36526428e885b2aa0cbeefa0099d510398c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\npadula\.android\build-cache\e1f1bc08fcaf26da62f872d2b0487480bd755f60\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7794f01c504e402aa4e0b93ad024d97fc7c06cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\npadula\.android\build-cache\2d0de7d1edb7eedd50c9084b9f90fc5910010f67\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e641d5633f2838a481647d79fb8d0835534e9bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\npadula\.android\build-cache\f7e680d2a1ccac0418301a5e1c648f725107446a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e86a9ed0e96edfe4f3027836b5e3a565ce8256fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\npadula\.android\build-cache\41f265a50ee9a61bba74cfea4da20039582781a2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e27d74cbbe72cf3feb7762f23237d35c0455ef2e\classes.dex" />
+    </item>
+
+</items>

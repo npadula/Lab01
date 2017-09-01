@@ -2079,7 +2079,7 @@ containing a value of this type.
         public static final int hasta5000Mayor30=0x7f060026;
         public static final int hasta5000Menor30=0x7f060027;
         public static final int hasta990000Mayor30=0x7f060028;
-        public static final int hastar99000Menor30=0x7f060029;
+        public static final int hasta99000Menor30=0x7f060029;
         public static final int lblCorreoElectronico=0x7f06002a;
         public static final int masDe99000Mayor30=0x7f06002b;
         public static final int masDe99000Menor30=0x7f06002c;

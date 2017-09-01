@@ -2,7 +2,7 @@
 <resources>
     <string name="hasta5000Menor30">25</string>
     <string name="hasta5000Mayor30">27.5</string>
-    <string name="hastar99000Menor30">30</string>
+    <string name="hasta99000Menor30">30</string>
     <string name="hasta990000Mayor30">32.3</string>
     <string name="masDe99000Menor30">35</string>
     <string name="masDe99000Mayor30">38.5</string>

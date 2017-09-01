@@ -15,26 +15,15 @@ ADDED from D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\src\main\AndroidMan
 		INJECTED from D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\src\main\AndroidManifest.xml
 application
 ADDED from D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\src\main\AndroidManifest.xml:5:5-18:19
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\c1926426650ef2aee3e34c405aed6b648c741ce9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\a77540e30bf8e78f53d175d96b34161f9470997d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\2d0de7d1edb7eedd50c9084b9f90fc5910010f67\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\41f265a50ee9a61bba74cfea4da20039582781a2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\b54bb8ee33f05801c5d55170f72ba53b52114e64\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\e1f1bc08fcaf26da62f872d2b0487480bd755f60\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\a755c311d03c67a25bef32b7268dbeee468b7b63\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\4c146f4c7d0fc43cb03a5affe32c109c4bbbd07b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\f7e680d2a1ccac0418301a5e1c648f725107446a\output\AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -61,28 +50,17 @@ ADDED from D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\src\main\AndroidMan
 		ADDED from D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\src\main\AndroidManifest.xml:15:27-74
 uses-sdk
 INJECTED from D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\c1926426650ef2aee3e34c405aed6b648c741ce9\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\a77540e30bf8e78f53d175d96b34161f9470997d\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\2d0de7d1edb7eedd50c9084b9f90fc5910010f67\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\41f265a50ee9a61bba74cfea4da20039582781a2\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\b54bb8ee33f05801c5d55170f72ba53b52114e64\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\e1f1bc08fcaf26da62f872d2b0487480bd755f60\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\a755c311d03c67a25bef32b7268dbeee468b7b63\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\4c146f4c7d0fc43cb03a5affe32c109c4bbbd07b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\f7e680d2a1ccac0418301a5e1c648f725107446a\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\c1926426650ef2aee3e34c405aed6b648c741ce9\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\src\main\AndroidManifest.xml
@@ -90,27 +68,16 @@ MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Fac
 		INJECTED from D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\c1926426650ef2aee3e34c405aed6b648c741ce9\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\a77540e30bf8e78f53d175d96b34161f9470997d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\2d0de7d1edb7eedd50c9084b9f90fc5910010f67\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\41f265a50ee9a61bba74cfea4da20039582781a2\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\b54bb8ee33f05801c5d55170f72ba53b52114e64\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\e1f1bc08fcaf26da62f872d2b0487480bd755f60\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\a755c311d03c67a25bef32b7268dbeee468b7b63\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\4c146f4c7d0fc43cb03a5affe32c109c4bbbd07b\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\f7e680d2a1ccac0418301a5e1c648f725107446a\output\AndroidManifest.xml:25:5-27:41
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\AndroidManifest.xml:27:9-38
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\c1926426650ef2aee3e34c405aed6b648c741ce9\output\AndroidManifest.xml:27:9-38
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\npadula\.android\build-cache\c1926426650ef2aee3e34c405aed6b648c741ce9\output\AndroidManifest.xml:26:9-47

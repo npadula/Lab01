@@ -1,90 +1,46 @@
 [
     {
-        "merged": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
         "merged": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_hint_foreground_material_light.xml"
+        "source": "C:\\Users\\npadula\\.android\\build-cache\\c1926426650ef2aee3e34c405aed6b648c741ce9\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
         "merged": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\switch_thumb_material_dark.xml"
+        "source": "C:\\Users\\npadula\\.android\\build-cache\\c1926426650ef2aee3e34c405aed6b648c741ce9\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
         "merged": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\switch_thumb_material_light.xml"
+        "source": "C:\\Users\\npadula\\.android\\build-cache\\c1926426650ef2aee3e34c405aed6b648c741ce9\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
         "merged": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_primary_text_material_light.xml"
+        "source": "C:\\Users\\npadula\\.android\\build-cache\\c1926426650ef2aee3e34c405aed6b648c741ce9\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
         "merged": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "source": "C:\\Users\\npadula\\.android\\build-cache\\c1926426650ef2aee3e34c405aed6b648c741ce9\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_hint_foreground_material_light.xml"
+        "source": "C:\\Users\\npadula\\.android\\build-cache\\c1926426650ef2aee3e34c405aed6b648c741ce9\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
         "merged": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_primary_text_material_dark.xml"
+        "source": "C:\\Users\\npadula\\.android\\build-cache\\c1926426650ef2aee3e34c405aed6b648c741ce9\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
         "merged": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_hint_foreground_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_search_url_text.xml"
-    },
-    {
-        "merged": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\switch_thumb_material_light.xml"
+        "source": "C:\\Users\\npadula\\.android\\build-cache\\c1926426650ef2aee3e34c405aed6b648c741ce9\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
         "merged": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_secondary_text_material_dark.xml"
+        "source": "C:\\Users\\npadula\\.android\\build-cache\\c1926426650ef2aee3e34c405aed6b648c741ce9\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\st\\AndroidStudioProjects\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_hint_foreground_material_dark.xml"
+        "source": "C:\\Users\\npadula\\.android\\build-cache\\c1926426650ef2aee3e34c405aed6b648c741ce9\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "D:\\Documentos\\Facultad\\Desarrollo Movil\\Lab01\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color\\abc_search_url_text.xml"
+        "source": "C:\\Users\\npadula\\.android\\build-cache\\c1926426650ef2aee3e34c405aed6b648c741ce9\\output\\res\\color\\abc_search_url_text.xml"
     }
 ]
