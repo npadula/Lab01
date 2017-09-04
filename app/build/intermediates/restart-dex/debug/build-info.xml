@@ -2,35 +2,74 @@
 <instant-run
     abi="x86"
     api-level="25"
-    build-mode="COLD"
+    build-mode="FULL"
     density="560dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1504230017407"
+    timestamp="1504557548819"
     token="6029196673099500910"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="379" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="29" />
+        duration="1618" />
     <task
         name="verifier"
-        duration="3" />
+        duration="216" />
 
     <artifact
         location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
+    <artifact
+        location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\outputs\apk\app-debug.apk"
+        type="SPLIT_MAIN" />
+    <artifact
+        location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1504229524836"
+        timestamp="1504557548819"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
@@ -39,9 +78,6 @@
             type="SPLIT" />
         <artifact
             location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
@@ -63,25 +99,6 @@
             type="SPLIT" />
         <artifact
             location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1504229961199"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1504230017407"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\Documentos\Facultad\Desarrollo Movil\Lab01\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
     </build>
 
